@@ -1,0 +1,8 @@
+{
+  "appId": "com.zarbanshu.app",
+  "appName": "ضربان‌شو",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
