@@ -1,8 +1,6 @@
 {
-  "appId": "com.zarbanshu.app",
-  "appName": "ضربان‌شو",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
+  "appId": "com.example.app",
+  "appName": "zarabanshu",
+  "webDir": ".",
+  "bundledWebRuntime": false
 }
